@@ -38,7 +38,7 @@ Programming has been my constant companion—it challenges me, sharpens my probl
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-maurya-0a3348301)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryahimanshu540@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshumaurya2k26@gmail.com)
 
 ---
 
